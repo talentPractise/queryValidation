@@ -1,0 +1,12 @@
+SELECT
+  SERVICE_CD,
+  PLACE_OF_SERVICE_CD,
+  GEOGRAPHIC_AREA_CD,
+  PRODUCT_CD,
+  SPECIALTY_CD,
+  RATE
+FROM `{{ce_project}}.{{ce_dec_dataset}}.{{ce_rates_table}}`
+WHERE SERVICE_CD = '90837'
+  AND CONTRACT_TYPE = 'S'
+  AND PLACE_OF_SERVICE_CD = '11'   -- claim_pos
+ORDER BY RATE DESC;
