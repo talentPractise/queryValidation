@@ -1,0 +1,41 @@
+
+{
+    "membershipId": "5~266526126+10+1+20250101+820223+B+2",
+    "zipCode": "77079",
+    "benefitProductType": "Medical",
+    "languageCode": "11",
+    "service": {
+    "code": "90837",
+    "type": "CPT4",
+        "supportingService": {
+            "code": "",
+            "type": ""
+        },
+        "modifier": {
+            "modifierCode": ""
+        },
+        "diagnosisCode": "",
+        "placeOfService": {
+            "code": "11"
+        }
+    },
+    "providerInfo": [
+        {
+            "serviceLocation": "7660201",
+            "providerType": “LPC”,
+            "speciality": {
+                "code": "10319"
+            },
+            "taxIdentificationNumber": "DlR%}W~Ab",
+            "taxIdQualifier": "",
+            "providerNetworks": {
+                "networkID": "00248"
+            },
+            "providerIdentificationNumber": "8245440",
+            "nationalProviderId": "000000000",
+            "providerNetworkParticipation": {
+                "providerTier": ""
+            }
+        }
+    ]
+}
