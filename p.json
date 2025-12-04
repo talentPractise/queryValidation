@@ -1,0 +1,1134 @@
+row_number 1
+{
+  "membershipId": "5~266526126+10+1+20250101+820223+B+2",
+  "zipCode": "77079",
+  "benefitProductType": "Medical",
+  "languageCode": "11",
+  "service": {
+    "code": "90837",
+    "type": "CPT4",
+    "supportingService": {
+      "code": "470",
+      "type": "DRG"
+    },
+    "modifier": {
+      "modifierCode": ""
+    },
+    "diagnosisCode": "",
+    "placeOfService": {
+      "code": "11"
+    }
+  },
+  "providerInfo": [
+    {
+      "serviceLocation": "4575795",
+      "providerType": "LPC",
+      "speciality": {
+        "code": ""
+      },
+      "taxIdentificationNumber": "DlR%}W~Ab",
+      "taxIdQualifier": "",
+      "providerNetworks": {
+        "networkID": "00248"
+      },
+      "providerIdentificationNumber": "8245440",
+      "nationalProviderId": "000000000",
+      "providerNetworkParticipation": {
+        "providerTier": ""
+      }
+    }
+  ]
+}
+
+row_number 2
+{
+  "membershipId": "5~266526126+10+1+20250101+820223+B+2",
+  "zipCode": "99686",
+  "benefitProductType": "Medical",
+  "languageCode": "11",
+  "service": {
+    "code": "90837",
+    "type": "CPT4",
+    "supportingService": {
+      "code": "470",
+      "type": "DRG"
+    },
+    "modifier": {
+      "modifierCode": ""
+    },
+    "diagnosisCode": "",
+    "placeOfService": {
+      "code": "11"
+    }
+  },
+  "providerInfo": [
+    {
+      "serviceLocation": "3246162",
+      "providerType": "SW",
+      "speciality": {
+        "code": ""
+      },
+      "taxIdentificationNumber": "_W~+PSjz{",
+      "taxIdQualifier": "",
+      "providerNetworks": {
+        "networkID": "02825"
+      },
+      "providerIdentificationNumber": "4308728",
+      "nationalProviderId": "000000000",
+      "providerNetworkParticipation": {
+        "providerTier": ""
+      }
+    }
+  ]
+}
+
+row_number 3
+{
+  "membershipId": "5~266526126+10+1+20250101+820223+B+2",
+  "zipCode": "72015",
+  "benefitProductType": "Medical",
+  "languageCode": "11",
+  "service": {
+    "code": "90837",
+    "type": "CPT4",
+    "supportingService": {
+      "code": "470",
+      "type": "DRG"
+    },
+    "modifier": {
+      "modifierCode": ""
+    },
+    "diagnosisCode": "",
+    "placeOfService": {
+      "code": "11"
+    }
+  },
+  "providerInfo": [
+    {
+      "serviceLocation": "2365709",
+      "providerType": "LPC",
+      "speciality": {
+        "code": ""
+      },
+      "taxIdentificationNumber": "95%uk}/:e",
+      "taxIdQualifier": "",
+      "providerNetworks": {
+        "networkID": "02321"
+      },
+      "providerIdentificationNumber": "6490398",
+      "nationalProviderId": "000000000",
+      "providerNetworkParticipation": {
+        "providerTier": ""
+      }
+    }
+  ]
+}
+
+row_number 4
+{
+  "membershipId": "5~266526126+10+1+20250101+820223+B+2",
+  "zipCode": "89106",
+  "benefitProductType": "Medical",
+  "languageCode": "11",
+  "service": {
+    "code": "90837",
+    "type": "CPT4",
+    "supportingService": {
+      "code": "470",
+      "type": "DRG"
+    },
+    "modifier": {
+      "modifierCode": ""
+    },
+    "diagnosisCode": "",
+    "placeOfService": {
+      "code": "11"
+    }
+  },
+  "providerInfo": [
+    {
+      "serviceLocation": "6497183",
+      "providerType": "SW",
+      "speciality": {
+        "code": ""
+      },
+      "taxIdentificationNumber": "Tj1e1fh(p",
+      "taxIdQualifier": "",
+      "providerNetworks": {
+        "networkID": "02159"
+      },
+      "providerIdentificationNumber": "8356378",
+      "nationalProviderId": "000000000",
+      "providerNetworkParticipation": {
+        "providerTier": ""
+      }
+    }
+  ]
+}
+
+row_number 5
+{
+  "membershipId": "5~266526126+10+1+20250101+820223+B+2",
+  "zipCode": "67230",
+  "benefitProductType": "Medical",
+  "languageCode": "11",
+  "service": {
+    "code": "90837",
+    "type": "CPT4",
+    "supportingService": {
+      "code": "470",
+      "type": "DRG"
+    },
+    "modifier": {
+      "modifierCode": ""
+    },
+    "diagnosisCode": "",
+    "placeOfService": {
+      "code": "11"
+    }
+  },
+  "providerInfo": [
+    {
+      "serviceLocation": "7397373",
+      "providerType": "MT",
+      "speciality": {
+        "code": ""
+      },
+      "taxIdentificationNumber": "m/hWKJsff",
+      "taxIdQualifier": "",
+      "providerNetworks": {
+        "networkID": "07864"
+      },
+      "providerIdentificationNumber": "9120425",
+      "nationalProviderId": "000000000",
+      "providerNetworkParticipation": {
+        "providerTier": ""
+      }
+    }
+  ]
+}
+
+row_number 6
+{
+  "membershipId": "5~266526126+10+1+20250101+820223+B+2",
+  "zipCode": "84041",
+  "benefitProductType": "Medical",
+  "languageCode": "11",
+  "service": {
+    "code": "90837",
+    "type": "CPT4",
+    "supportingService": {
+      "code": "470",
+      "type": "DRG"
+    },
+    "modifier": {
+      "modifierCode": ""
+    },
+    "diagnosisCode": "",
+    "placeOfService": {
+      "code": "11"
+    }
+  },
+  "providerInfo": [
+    {
+      "serviceLocation": "5467381",
+      "providerType": "SW",
+      "speciality": {
+        "code": ""
+      },
+      "taxIdentificationNumber": "+SC3u@3+x",
+      "taxIdQualifier": "",
+      "providerNetworks": {
+        "networkID": "09511"
+      },
+      "providerIdentificationNumber": "8023504",
+      "nationalProviderId": "000000000",
+      "providerNetworkParticipation": {
+        "providerTier": ""
+      }
+    }
+  ]
+}
+
+row_number 7
+{
+  "membershipId": "5~266526126+10+1+20250101+820223+B+2",
+  "zipCode": "8753",
+  "benefitProductType": "Medical",
+  "languageCode": "11",
+  "service": {
+    "code": "90837",
+    "type": "CPT4",
+    "supportingService": {
+      "code": "470",
+      "type": "DRG"
+    },
+    "modifier": {
+      "modifierCode": ""
+    },
+    "diagnosisCode": "",
+    "placeOfService": {
+      "code": "11"
+    }
+  },
+  "providerInfo": [
+    {
+      "serviceLocation": "591039",
+      "providerType": "LPC",
+      "speciality": {
+        "code": ""
+      },
+      "taxIdentificationNumber": "6.$rtUJyg",
+      "taxIdQualifier": "",
+      "providerNetworks": {
+        "networkID": "01449"
+      },
+      "providerIdentificationNumber": "8006400",
+      "nationalProviderId": "000000000",
+      "providerNetworkParticipation": {
+        "providerTier": ""
+      }
+    }
+  ]
+}
+
+row_number 8
+{
+  "membershipId": "5~266526126+10+1+20250101+820223+B+2",
+  "zipCode": "43065",
+  "benefitProductType": "Medical",
+  "languageCode": "11",
+  "service": {
+    "code": "90837",
+    "type": "CPT4",
+    "supportingService": {
+      "code": "470",
+      "type": "DRG"
+    },
+    "modifier": {
+      "modifierCode": ""
+    },
+    "diagnosisCode": "",
+    "placeOfService": {
+      "code": "11"
+    }
+  },
+  "providerInfo": [
+    {
+      "serviceLocation": "5506343",
+      "providerType": "SW",
+      "speciality": {
+        "code": ""
+      },
+      "taxIdentificationNumber": "1h0:M4w_)",
+      "taxIdQualifier": "",
+      "providerNetworks": {
+        "networkID": "00582"
+      },
+      "providerIdentificationNumber": "8766387",
+      "nationalProviderId": "000000000",
+      "providerNetworkParticipation": {
+        "providerTier": ""
+      }
+    }
+  ]
+}
+
+row_number 9
+{
+  "membershipId": "5~266526126+10+1+20250101+820223+B+2",
+  "zipCode": "43023",
+  "benefitProductType": "Medical",
+  "languageCode": "11",
+  "service": {
+    "code": "90837",
+    "type": "CPT4",
+    "supportingService": {
+      "code": "470",
+      "type": "DRG"
+    },
+    "modifier": {
+      "modifierCode": ""
+    },
+    "diagnosisCode": "",
+    "placeOfService": {
+      "code": "11"
+    }
+  },
+  "providerInfo": [
+    {
+      "serviceLocation": "4996320",
+      "providerType": "SW",
+      "speciality": {
+        "code": ""
+      },
+      "taxIdentificationNumber": "Hn7U{u$O$",
+      "taxIdQualifier": "",
+      "providerNetworks": {
+        "networkID": "00582"
+      },
+      "providerIdentificationNumber": "8784158",
+      "nationalProviderId": "000000000",
+      "providerNetworkParticipation": {
+        "providerTier": ""
+      }
+    }
+  ]
+}
+
+row_number 10
+{
+  "membershipId": "5~266526126+10+1+20250101+820223+B+2",
+  "zipCode": "60618",
+  "benefitProductType": "Medical",
+  "languageCode": "11",
+  "service": {
+    "code": "90837",
+    "type": "CPT4",
+    "supportingService": {
+      "code": "470",
+      "type": "DRG"
+    },
+    "modifier": {
+      "modifierCode": ""
+    },
+    "diagnosisCode": "",
+    "placeOfService": {
+      "code": "11"
+    }
+  },
+  "providerInfo": [
+    {
+      "serviceLocation": "4477376",
+      "providerType": "LPC",
+      "speciality": {
+        "code": ""
+      },
+      "taxIdentificationNumber": "CRYuWh.;y",
+      "taxIdQualifier": "",
+      "providerNetworks": {
+        "networkID": "00243"
+      },
+      "providerIdentificationNumber": "8334859",
+      "nationalProviderId": "000000000",
+      "providerNetworkParticipation": {
+        "providerTier": ""
+      }
+    }
+  ]
+}
+
+row_number 11
+{
+  "membershipId": "5~266526126+10+1+20250101+820223+B+2",
+  "zipCode": "28078",
+  "benefitProductType": "Medical",
+  "languageCode": "11",
+  "service": {
+    "code": "90837",
+    "type": "CPT4",
+    "supportingService": {
+      "code": "470",
+      "type": "DRG"
+    },
+    "modifier": {
+      "modifierCode": ""
+    },
+    "diagnosisCode": "",
+    "placeOfService": {
+      "code": "11"
+    }
+  },
+  "providerInfo": [
+    {
+      "serviceLocation": "4166556",
+      "providerType": "SW",
+      "speciality": {
+        "code": ""
+      },
+      "taxIdentificationNumber": "N~TutP?@~",
+      "taxIdQualifier": "",
+      "providerNetworks": {
+        "networkID": "00482"
+      },
+      "providerIdentificationNumber": "8161818",
+      "nationalProviderId": "000000000",
+      "providerNetworkParticipation": {
+        "providerTier": ""
+      }
+    }
+  ]
+}
+
+row_number 12
+{
+  "membershipId": "5~266526126+10+1+20250101+820223+B+2",
+  "zipCode": "84790",
+  "benefitProductType": "Medical",
+  "languageCode": "11",
+  "service": {
+    "code": "90837",
+    "type": "CPT4",
+    "supportingService": {
+      "code": "470",
+      "type": "DRG"
+    },
+    "modifier": {
+      "modifierCode": ""
+    },
+    "diagnosisCode": "",
+    "placeOfService": {
+      "code": "11"
+    }
+  },
+  "providerInfo": [
+    {
+      "serviceLocation": "8526156",
+      "providerType": "SW",
+      "speciality": {
+        "code": ""
+      },
+      "taxIdentificationNumber": "TEPT%9Rdw",
+      "taxIdQualifier": "",
+      "providerNetworks": {
+        "networkID": "00358"
+      },
+      "providerIdentificationNumber": "6498317",
+      "nationalProviderId": "000000000",
+      "providerNetworkParticipation": {
+        "providerTier": ""
+      }
+    }
+  ]
+}
+
+row_number 13
+{
+  "membershipId": "5~266526126+10+1+20250101+820223+B+2",
+  "zipCode": "32901",
+  "benefitProductType": "Medical",
+  "languageCode": "11",
+  "service": {
+    "code": "90837",
+    "type": "CPT4",
+    "supportingService": {
+      "code": "470",
+      "type": "DRG"
+    },
+    "modifier": {
+      "modifierCode": ""
+    },
+    "diagnosisCode": "",
+    "placeOfService": {
+      "code": "11"
+    }
+  },
+  "providerInfo": [
+    {
+      "serviceLocation": "8247006",
+      "providerType": "SW",
+      "speciality": {
+        "code": ""
+      },
+      "taxIdentificationNumber": "a+?cUDpnt",
+      "taxIdQualifier": "",
+      "providerNetworks": {
+        "networkID": "00604"
+      },
+      "providerIdentificationNumber": "6622012",
+      "nationalProviderId": "000000000",
+      "providerNetworkParticipation": {
+        "providerTier": ""
+      }
+    }
+  ]
+}
+
+row_number 14
+{
+  "membershipId": "5~266526126+10+1+20250101+820223+B+2",
+  "zipCode": "60435",
+  "benefitProductType": "Medical",
+  "languageCode": "11",
+  "service": {
+    "code": "90837",
+    "type": "CPT4",
+    "supportingService": {
+      "code": "470",
+      "type": "DRG"
+    },
+    "modifier": {
+      "modifierCode": ""
+    },
+    "diagnosisCode": "",
+    "placeOfService": {
+      "code": "11"
+    }
+  },
+  "providerInfo": [
+    {
+      "serviceLocation": "8156508",
+      "providerType": "LPC",
+      "speciality": {
+        "code": ""
+      },
+      "taxIdentificationNumber": "E{4Ddbd}:",
+      "taxIdQualifier": "",
+      "providerNetworks": {
+        "networkID": "00243"
+      },
+      "providerIdentificationNumber": "9379839",
+      "nationalProviderId": "000000000",
+      "providerNetworkParticipation": {
+        "providerTier": ""
+      }
+    }
+  ]
+}
+
+row_number 15
+{
+  "membershipId": "5~266526126+10+1+20250101+820223+B+2",
+  "zipCode": "11758",
+  "benefitProductType": "Medical",
+  "languageCode": "11",
+  "service": {
+    "code": "90837",
+    "type": "CPT4",
+    "supportingService": {
+      "code": "470",
+      "type": "DRG"
+    },
+    "modifier": {
+      "modifierCode": ""
+    },
+    "diagnosisCode": "",
+    "placeOfService": {
+      "code": "11"
+    }
+  },
+  "providerInfo": [
+    {
+      "serviceLocation": "9106311",
+      "providerType": "SW",
+      "speciality": {
+        "code": ""
+      },
+      "taxIdentificationNumber": ":3#j2t@ss",
+      "taxIdQualifier": "",
+      "providerNetworks": {
+        "networkID": "00357"
+      },
+      "providerIdentificationNumber": "8306383",
+      "nationalProviderId": "000000000",
+      "providerNetworkParticipation": {
+        "providerTier": ""
+      }
+    }
+  ]
+}
+
+row_number 16
+{
+  "membershipId": "5~266526126+10+1+20250101+820223+B+2",
+  "zipCode": "60091",
+  "benefitProductType": "Medical",
+  "languageCode": "11",
+  "service": {
+    "code": "90837",
+    "type": "CPT4",
+    "supportingService": {
+      "code": "470",
+      "type": "DRG"
+    },
+    "modifier": {
+      "modifierCode": ""
+    },
+    "diagnosisCode": "",
+    "placeOfService": {
+      "code": "11"
+    }
+  },
+  "providerInfo": [
+    {
+      "serviceLocation": "2427308",
+      "providerType": "SW",
+      "speciality": {
+        "code": ""
+      },
+      "taxIdentificationNumber": "1X3rh7#$p",
+      "taxIdQualifier": "",
+      "providerNetworks": {
+        "networkID": "00638"
+      },
+      "providerIdentificationNumber": "8521652",
+      "nationalProviderId": "000000000",
+      "providerNetworkParticipation": {
+        "providerTier": ""
+      }
+    }
+  ]
+}
+
+row_number 17
+{
+  "membershipId": "5~266526126+10+1+20250101+820223+B+2",
+  "zipCode": "33467",
+  "benefitProductType": "Medical",
+  "languageCode": "11",
+  "service": {
+    "code": "90837",
+    "type": "CPT4",
+    "supportingService": {
+      "code": "470",
+      "type": "DRG"
+    },
+    "modifier": {
+      "modifierCode": ""
+    },
+    "diagnosisCode": "",
+    "placeOfService": {
+      "code": "11"
+    }
+  },
+  "providerInfo": [
+    {
+      "serviceLocation": "2706951",
+      "providerType": "SW",
+      "speciality": {
+        "code": ""
+      },
+      "taxIdentificationNumber": "qG(nZ@%Ou",
+      "taxIdQualifier": "",
+      "providerNetworks": {
+        "networkID": "00396"
+      },
+      "providerIdentificationNumber": "6489062",
+      "nationalProviderId": "000000000",
+      "providerNetworkParticipation": {
+        "providerTier": ""
+      }
+    }
+  ]
+}
+
+row_number 18
+{
+  "membershipId": "5~266526126+10+1+20250101+820223+B+2",
+  "zipCode": "84790",
+  "benefitProductType": "Medical",
+  "languageCode": "11",
+  "service": {
+    "code": "90837",
+    "type": "CPT4",
+    "supportingService": {
+      "code": "470",
+      "type": "DRG"
+    },
+    "modifier": {
+      "modifierCode": ""
+    },
+    "diagnosisCode": "",
+    "placeOfService": {
+      "code": "11"
+    }
+  },
+  "providerInfo": [
+    {
+      "serviceLocation": "5216865",
+      "providerType": "MT",
+      "speciality": {
+        "code": ""
+      },
+      "taxIdentificationNumber": "4i;EcBBdz",
+      "taxIdQualifier": "",
+      "providerNetworks": {
+        "networkID": "09512"
+      },
+      "providerIdentificationNumber": "6176188",
+      "nationalProviderId": "000000000",
+      "providerNetworkParticipation": {
+        "providerTier": ""
+      }
+    }
+  ]
+}
+
+row_number 19
+{
+  "membershipId": "5~266526126+10+1+20250101+820223+B+2",
+  "zipCode": "60416",
+  "benefitProductType": "Medical",
+  "languageCode": "11",
+  "service": {
+    "code": "90837",
+    "type": "CPT4",
+    "supportingService": {
+      "code": "470",
+      "type": "DRG"
+    },
+    "modifier": {
+      "modifierCode": ""
+    },
+    "diagnosisCode": "",
+    "placeOfService": {
+      "code": "11"
+    }
+  },
+  "providerInfo": [
+    {
+      "serviceLocation": "7661564",
+      "providerType": "SW",
+      "speciality": {
+        "code": ""
+      },
+      "taxIdentificationNumber": "W2EN4pr$(",
+      "taxIdQualifier": "",
+      "providerNetworks": {
+        "networkID": "00243"
+      },
+      "providerIdentificationNumber": "9459930",
+      "nationalProviderId": "000000000",
+      "providerNetworkParticipation": {
+        "providerTier": ""
+      }
+    }
+  ]
+}
+
+row_number 20
+{
+  "membershipId": "5~266526126+10+1+20250101+820223+B+2",
+  "zipCode": "84043",
+  "benefitProductType": "Medical",
+  "languageCode": "11",
+  "service": {
+    "code": "90837",
+    "type": "CPT4",
+    "supportingService": {
+      "code": "470",
+      "type": "DRG"
+    },
+    "modifier": {
+      "modifierCode": ""
+    },
+    "diagnosisCode": "",
+    "placeOfService": {
+      "code": "11"
+    }
+  },
+  "providerInfo": [
+    {
+      "serviceLocation": "1257471",
+      "providerType": "LPC",
+      "speciality": {
+        "code": ""
+      },
+      "taxIdentificationNumber": "}nrB7#4$)",
+      "taxIdQualifier": "",
+      "providerNetworks": {
+        "networkID": "09511"
+      },
+      "providerIdentificationNumber": "9815915",
+      "nationalProviderId": "000000000",
+      "providerNetworkParticipation": {
+        "providerTier": ""
+      }
+    }
+  ]
+}
+
+row_number 21
+{
+  "membershipId": "5~266526126+10+1+20250101+820223+B+2",
+  "zipCode": "61350",
+  "benefitProductType": "Medical",
+  "languageCode": "11",
+  "service": {
+    "code": "90837",
+    "type": "CPT4",
+    "supportingService": {
+      "code": "470",
+      "type": "DRG"
+    },
+    "modifier": {
+      "modifierCode": ""
+    },
+    "diagnosisCode": "",
+    "placeOfService": {
+      "code": "11"
+    }
+  },
+  "providerInfo": [
+    {
+      "serviceLocation": "2295943",
+      "providerType": "SW",
+      "speciality": {
+        "code": ""
+      },
+      "taxIdentificationNumber": "u@/2X7v1?",
+      "taxIdQualifier": "",
+      "providerNetworks": {
+        "networkID": "03780"
+      },
+      "providerIdentificationNumber": "8942557",
+      "nationalProviderId": "000000000",
+      "providerNetworkParticipation": {
+        "providerTier": ""
+      }
+    }
+  ]
+}
+
+row_number 22
+{
+  "membershipId": "5~266526126+10+1+20250101+820223+B+2",
+  "zipCode": "67212",
+  "benefitProductType": "Medical",
+  "languageCode": "11",
+  "service": {
+    "code": "90837",
+    "type": "CPT4",
+    "supportingService": {
+      "code": "470",
+      "type": "DRG"
+    },
+    "modifier": {
+      "modifierCode": ""
+    },
+    "diagnosisCode": "",
+    "placeOfService": {
+      "code": "11"
+    }
+  },
+  "providerInfo": [
+    {
+      "serviceLocation": "6465935",
+      "providerType": "MT",
+      "speciality": {
+        "code": ""
+      },
+      "taxIdentificationNumber": "HMM%E?f0k",
+      "taxIdQualifier": "",
+      "providerNetworks": {
+        "networkID": "10085"
+      },
+      "providerIdentificationNumber": "9866283",
+      "nationalProviderId": "000000000",
+      "providerNetworkParticipation": {
+        "providerTier": ""
+      }
+    }
+  ]
+}
+
+row_number 23
+{
+  "membershipId": "5~266526126+10+1+20250101+820223+B+2",
+  "zipCode": "8043",
+  "benefitProductType": "Medical",
+  "languageCode": "11",
+  "service": {
+    "code": "90837",
+    "type": "CPT4",
+    "supportingService": {
+      "code": "470",
+      "type": "DRG"
+    },
+    "modifier": {
+      "modifierCode": ""
+    },
+    "diagnosisCode": "",
+    "placeOfService": {
+      "code": "11"
+    }
+  },
+  "providerInfo": [
+    {
+      "serviceLocation": "8603996",
+      "providerType": "SW",
+      "speciality": {
+        "code": ""
+      },
+      "taxIdentificationNumber": "xIKT5RFU~",
+      "taxIdQualifier": "",
+      "providerNetworks": {
+        "networkID": "01450"
+      },
+      "providerIdentificationNumber": "8899389",
+      "nationalProviderId": "000000000",
+      "providerNetworkParticipation": {
+        "providerTier": ""
+      }
+    }
+  ]
+}
+
+row_number 24
+{
+  "membershipId": "5~266526126+10+1+20250101+820223+B+2",
+  "zipCode": "39157",
+  "benefitProductType": "Medical",
+  "languageCode": "11",
+  "service": {
+    "code": "90837",
+    "type": "CPT4",
+    "supportingService": {
+      "code": "470",
+      "type": "DRG"
+    },
+    "modifier": {
+      "modifierCode": ""
+    },
+    "diagnosisCode": "",
+    "placeOfService": {
+      "code": "11"
+    }
+  },
+  "providerInfo": [
+    {
+      "serviceLocation": "9726743",
+      "providerType": "BHG",
+      "speciality": {
+        "code": ""
+      },
+      "taxIdentificationNumber": "+lgh~t?Rr",
+      "taxIdQualifier": "",
+      "providerNetworks": {
+        "networkID": "01315"
+      },
+      "providerIdentificationNumber": "8963117",
+      "nationalProviderId": "000000000",
+      "providerNetworkParticipation": {
+        "providerTier": ""
+      }
+    }
+  ]
+}
+
+row_number 25
+{
+  "membershipId": "5~266526126+10+1+20250101+820223+B+2",
+  "zipCode": "19512",
+  "benefitProductType": "Medical",
+  "languageCode": "11",
+  "service": {
+    "code": "90837",
+    "type": "CPT4",
+    "supportingService": {
+      "code": "470",
+      "type": "DRG"
+    },
+    "modifier": {
+      "modifierCode": ""
+    },
+    "diagnosisCode": "",
+    "placeOfService": {
+      "code": "11"
+    }
+  },
+  "providerInfo": [
+    {
+      "serviceLocation": "5984293",
+      "providerType": "LPC",
+      "speciality": {
+        "code": ""
+      },
+      "taxIdentificationNumber": "6Dk@EGM}$",
+      "taxIdQualifier": "",
+      "providerNetworks": {
+        "networkID": "00140"
+      },
+      "providerIdentificationNumber": "9759733",
+      "nationalProviderId": "000000000",
+      "providerNetworkParticipation": {
+        "providerTier": ""
+      }
+    }
+  ]
+}
+
+row_number 26
+{
+  "membershipId": "5~266526126+10+1+20250101+820223+B+2",
+  "zipCode": "44145",
+  "benefitProductType": "Medical",
+  "languageCode": "11",
+  "service": {
+    "code": "90837",
+    "type": "CPT4",
+    "supportingService": {
+      "code": "470",
+      "type": "DRG"
+    },
+    "modifier": {
+      "modifierCode": ""
+    },
+    "diagnosisCode": "",
+    "placeOfService": {
+      "code": "11"
+    }
+  },
+  "providerInfo": [
+    {
+      "serviceLocation": "6006952",
+      "providerType": "LPC",
+      "speciality": {
+        "code": ""
+      },
+      "taxIdentificationNumber": "B/.;fOe-@",
+      "taxIdQualifier": "",
+      "providerNetworks": {
+        "networkID": "12487"
+      },
+      "providerIdentificationNumber": "4705350",
+      "nationalProviderId": "000000000",
+      "providerNetworkParticipation": {
+        "providerTier": ""
+      }
+    }
+  ]
+}
+
+row_number 27
+{
+  "membershipId": "5~266526126+10+1+20250101+820223+B+2",
+  "zipCode": "82930",
+  "benefitProductType": "Medical",
+  "languageCode": "11",
+  "service": {
+    "code": "90837",
+    "type": "CPT4",
+    "supportingService": {
+      "code": "470",
+      "type": "DRG"
+    },
+    "modifier": {
+      "modifierCode": ""
+    },
+    "diagnosisCode": "",
+    "placeOfService": {
+      "code": "11"
+    }
+  },
+  "providerInfo": [
+    {
+      "serviceLocation": "9896705",
+      "providerType": "LPC",
+      "speciality": {
+        "code": ""
+      },
+      "taxIdentificationNumber": "cXhAIh%2i",
+      "taxIdQualifier": "",
+      "providerNetworks": {
+        "networkID": "09514"
+      },
+      "providerIdentificationNumber": "6410126",
+      "nationalProviderId": "000000000",
+      "providerNetworkParticipation": {
+        "providerTier": ""
+      }
+    }
+  ]
+}
+
