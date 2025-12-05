@@ -1,0 +1,7 @@
+row_num: 3459247  Got a provider with PBG_NBR, thats why got the different rate
+row_num: 5746151   The given rate is not present
+row_num: 10190575 The given rate is not present
+row_num: 6443139   Provider not found for the given network_id
+row_num: 2469615   For the given specilaty_cd(BHG) the given rate is not present
+row_num: 260294     No providers found for the given network_id
+row_num: 6275220   No providers found for the given network_id 
